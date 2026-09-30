@@ -110,3 +110,13 @@ cmb-plastid-genome-paeonia-villegas/
 ├── report/
 │   └── README.md
 └── README.md
+## References and Links
+
+- NCBI RefSeq: https://www.ncbi.nlm.nih.gov/nuccore/NC_037879.1
+- Galaxy: https://usegalaxy.org/
+- Galaxy Training Network: https://training.galaxyproject.org/
+- GitHub: https://github.com/
+
+## Reproducibility
+
+The complete chloroplast genome was retrieved from NCBI using accession **NC_037879.1**. The FASTA sequence was uploaded to the student's Galaxy account under the history `Plastid_Paeonia_Villegas` and analyzed using FASTA statistics. The sequence data, Galaxy screenshots, results, and report are organized in this repository to document the workflow and support reproducibility.
